@@ -1,0 +1,12 @@
+.minibox {
+    width:30%;
+}
+.content {
+    padding: 1em 0em 0em 0em;
+    margin: 0em 20% 2em 20%;
+}
+.introtext {
+    -webkit-columns: 100px 3;
+    -moz-columns: 100px 3;
+    columns: 100px 3;
+}
